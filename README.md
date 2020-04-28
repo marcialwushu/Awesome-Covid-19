@@ -1,6 +1,3 @@
-# Awesome-Covid-19
-:books: Projetos e recursos úteis e informativos sobre COVID-19 (Coronavirus 2019 )
-
 <div align="center">
 	<br>
 	<img src="https://github.com/avelino/awesome-go/blob/master/tmpl/assets/logo.png?raw=true" width="450px">
@@ -11,7 +8,9 @@
 	<br>
 </div>
 
-# Awesome-Covid-19 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://img.shields.io/github/license/soroushchehresa/awesome-coronavirus"> <img src="https://img.shields.io/travis/soroushchehresa/awesome-coronavirus" alt="build status"> [<img src="https://img.shields.io/badge/sponsors-become%20a%20sponsor-blueviolet">](#donation-and-sponsoring)
+# Awesome-Covid-19 
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://img.shields.io/github/license/soroushchehresa/awesome-coronavirus"> <img src="https://img.shields.io/travis/soroushchehresa/awesome-coronavirus" alt="build status"> [<img src="https://img.shields.io/badge/sponsors-become%20a%20sponsor-blueviolet">](#donation-and-sponsoring)
 
 > Useful projects and resources for COVID-19 (2019 novel Coronavirus)
 
