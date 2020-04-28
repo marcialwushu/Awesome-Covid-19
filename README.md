@@ -551,25 +551,3 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 | [ECDC](https://www.ecdc.europa.eu/en/novel-coronavirus-china) |  European Centre for Disease Prevention and Control |
 
 
-## Donation and Sponsoring
-
-Donate me with buying me some vitamins to boost my immune system during the coronavirus outbreak, I would maintain this repository if I was alive :) 
-
-#### Bitcoin
-<img src="https://i.imgur.com/9IgberJ.png" width="120" >
-
-`1CddWa57gyqTQEgf5oiQ4DbpLufAiEyMTm`
-
-#### Patreon
-<a href="https://www.patreon.com/soroushchehresa">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
-<hr>
-
-You can become a sponsor of `awesome-coronavirus` and be placed at the top of this repository in the [sponsor's section](#sponsors). If you are interested to become a sponsor please contact me with the following Email address:
-#### `s1996ch@gmail.com`
-
-## Contribution
-Contributions welcome! Read the [contribution guidelines](https://github.com/soroushchehresa/awesome-coronavirus/blob/master/contributing.md) first.
-
