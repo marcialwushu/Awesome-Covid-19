@@ -3,7 +3,7 @@
 
 <div align="center">
 	<br>
-	<img src="https://raw.githubusercontent.com/soroushchehresa/awesome-coronavirus/master/awesome-coronavirus.png" width="450px">
+	<img src="https://github.com/avelino/awesome-go/blob/master/tmpl/assets/logo.png?raw=true" width="450px">
 	<br>
 	<br>
 	<br>
@@ -11,7 +11,7 @@
 	<br>
 </div>
 
-# Awesome Coronavirus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://img.shields.io/github/license/soroushchehresa/awesome-coronavirus"> <img src="https://img.shields.io/travis/soroushchehresa/awesome-coronavirus" alt="build status"> [<img src="https://img.shields.io/badge/sponsors-become%20a%20sponsor-blueviolet">](#donation-and-sponsoring)
+# Awesome-Covid-19 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://img.shields.io/github/license/soroushchehresa/awesome-coronavirus"> <img src="https://img.shields.io/travis/soroushchehresa/awesome-coronavirus" alt="build status"> [<img src="https://img.shields.io/badge/sponsors-become%20a%20sponsor-blueviolet">](#donation-and-sponsoring)
 
 > Useful projects and resources for COVID-19 (2019 novel Coronavirus)
 
