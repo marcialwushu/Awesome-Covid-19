@@ -20,7 +20,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 
 ## Contents
-- [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](#2019-novel-coronavirus-COVID-19-(2019-nCoV)-Data-Repository-by-Johns-Hopkins-CSSE)
+- [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](#2019-novel-coronavirus-covid-19-2019-nCoV-data-repository-by-johns-hopkins-csse)
 - [Get to Know](#get-to-know)
 
 - [Open Source Projects](#open-source-projects)
